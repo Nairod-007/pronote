@@ -6,5 +6,6 @@ Install puppeteer with
 ```npm i puppeteer```
 
 # Usage
+Change id and password in index.js
 Launch program in python.
 You get a pdf with a table of subjects and results
