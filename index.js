@@ -2,8 +2,8 @@
 
 (async () => {
 
-  const username = "dorian.milhau";
-  const password = "NAIROD";
+  const username = "id";
+  const password = "password";
 
   const fs = require('fs');
   const puppeteer = require('puppeteer');
